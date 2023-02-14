@@ -1,9 +1,10 @@
-# QLS-600-2023
+# QLS-600-2023-Assignment
 
-## Assignment
+## Purpose
 In this group assignemnt, you will learn how to collaborate on a reproducible project. 
 The goal is to annotate research articles for demographic information. 
-Here are the steps : 
+
+## Here are the steps : 
 1. you will find the articles in [this folder in the annotation repo](https://github.com/neurodatascience/labelbuddy-annotations/tree/main/projects/participant_demographics)
 2. Choose a set of article to annotate in the ones already in the git repository (don't add the ones in OSF). 
    Each student could do about 10, overall we should have about 100 articles annotated 
