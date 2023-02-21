@@ -4,6 +4,10 @@
 In this group assignemnt, you will learn how to collaborate on a reproducible project. 
 The goal is to annotate research articles for demographic information. 
 
+**Deadline for presentation: March 7**
+
+**Deadline for assignment: March 10**
+
 ## Here are the steps : 
 1. you will contribute to [this repository of annotations](https://github.com/neurodatascience/labelbuddy-annotations/)
 1. annotations are done with [labelbuddy](https://jeromedockes.github.io/labelbuddy/labelbuddy/current/).
