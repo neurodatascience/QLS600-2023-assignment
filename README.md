@@ -19,6 +19,9 @@ Don't hesitate to ask about any difficulties you may encounter.
 1. Fork the [repository of annotations](https://github.com/neurodatascience/labelbuddy-annotations/).
 You will work on the `participants_demographics` project.
 You can have a look at the instructions on [getting started](https://neurodatascience.github.io/labelbuddy-annotations/contributing_to_this_repository.html), and the [specific instructions](https://neurodatascience.github.io/labelbuddy-annotations/projects/participant_demographics.html) for the `participants_demographics` project.
+In particular, note:
+    - After cloning the repository *if* you want to use the report of participant groups, you need to `pip install -e analysis/labelrepo/`.
+    - There is a video in the instructions showing the annotation of the example that was used during the presentation in class.
 The repository and its documentation are still a work in progress and we are available to provide help; we hope that your feedback (possibly provided directly on GitHub) will help improve the project.
 1. Once you have created annotations, export them (either from the labelbuddy interface or with the helpers provided in the repository), push them to a branch *on your fork of the repository* and open a Pull Request.
 1. Once the annotations are done (question: how are they done ? can you document your process ? could someone look at what was done and reproduce the results or continue the work?), analyse the results to answer a scientific question, for example:
